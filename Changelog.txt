@@ -1,0 +1,90 @@
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                        V.1.4
+    
+    Added:
+        - Settings Menu
+        - Options to enable and disable Notifications and RPC
+    
+    Changes:
+        - Some bug fixes
+    
+    Removed:
+        - Checker from menu (its still there but it will not work due to some problems with imports)
+    
+    Credits:
+        - None
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                        V.1.3
+            
+    Added:
+        - Optional AutoUpdate
+        - Wait until webside loads to do something
+        - A new proxy scraper (not in use yet)
+        - Some basic options in a new file called plugin
+        - Version file and Version check
+    
+    Changes:
+        - Login Comandline
+        - Some bug fixes
+        - Updated the run.bat file
+        - Some code in the main file to make it more efficient and easier to read
+
+    Removed:
+        - Some unnessesary code
+
+    Credits:
+        - HazardNuker for the new proxyscraper
+        - Some random program i saw on github for the autoupdate idea
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                        V.1.2.1
+
+    Added:
+        - Experimental GUI (HAS NO FUNCTION)
+    
+    Changes:
+        - Some bug fixes
+
+    Removed:
+        - Nothing
+
+    Credits:
+        - This random dude on youtube explaining how to make Qt5 GUI's
+    
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                        V.1.2
+
+    Added:
+        - Changelog
+        - Discord RPC
+
+    Changes:
+        - UsernameGen
+        - Login
+        - Checker
+        - Log
+        - Main
+        - gitignore
+    
+    Removed:
+        - Old UsernameGen
+
+    Credits:
+        - 24host for "showing" me how to write: '|' in Comandline Titles
+        - http://patorjk.com/software/taag for the Ascii logo
+        - XPathHelper to test if XPaths are the right ones
+        - A friend for help me finding bugs and testing everything
+
+    
+    Info:
+        - I'm realy sorry but i cant compile the program to an .exe file anymore because its just too many files
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------

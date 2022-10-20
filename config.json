@@ -1,0 +1,6 @@
+{
+    "options": {
+        "RPC": "True",
+        "NOTIFICATIONS": "True"
+    }
+}
